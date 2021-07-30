@@ -6,5 +6,6 @@
 - tensorflow API : https://www.tensorflow.org/api_docs/python/tf/keras
 ---
 # Code Review
-- Data Augmentation : [review_data_augmentation.ipynb]()
+- Data Augmentation : [review_data_augmentation.ipynb](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/review_data_augmentation.ipynb)
 - VGG로 영상 분류, 전이학습 : [review_VGG16_classification_and_cumtom_data_training.ipynb](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/review_VGG16_classification_and_cumtom_data_training.ipynb)
+- 커스텀 데이터 VGG 데이터 분류 실습 : [review_glaucoma_classification.ipynb](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/review_glaucoma_classification.ipynb)
