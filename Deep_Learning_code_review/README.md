@@ -1,4 +1,4 @@
-**I collected original coding sheets from DMC course: dhrim/hongik_2021**
+**_I collected original coding sheets from DMC course: dhrim/hongik_2021_**
 
 # Reference
 - keras 한국어 사이트 : https://keras.io/ko
