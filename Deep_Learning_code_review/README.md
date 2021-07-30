@@ -6,5 +6,5 @@
 - tensorflow API : https://www.tensorflow.org/api_docs/python/tf/keras
 ---
 # Code Review
-- Data Augmentation : review_data_augmentation.ipynb
-- VGG로 영상 분류, 전이학습 : review_VGG16_classification_and_cumtom_data_training.ipynb
+- Data Augmentation : [review_data_augmentation.ipynb]
+- VGG로 영상 분류, 전이학습 : [review_VGG16_classification_and_cumtom_data_training.ipynb]
