@@ -4,6 +4,10 @@
 - keras 한국어 사이트 : https://keras.io/ko
 - keras API : https://keras.io/api
 - tensorflow API : https://www.tensorflow.org/api_docs/python/tf/keras
+- CNN 구조 이해하기 : https://buomsoo-kim.github.io/keras/2018/05/02/Easy-deep-learning-with-Keras-8.md/
+- CNN의 발전, 모델 요약정리 : https://warm-uk.tistory.com/44?category=824848
+- sklearn 데이터분할 : https://baem1n.dev/2021/01/12/ML-SKLEARN-01/
+- hiden layer를 1~2개만 두는 이유 : https://channelofchaos.tistory.com/105  https://okky.kr/article/518556
 ---
 # Code Review
 - Data Augmentation : [review_data_augmentation.ipynb](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/review_data_augmentation.ipynb)
