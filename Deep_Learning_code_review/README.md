@@ -11,6 +11,6 @@
 - 커스텀 데이터 VGG 데이터 분류 실습 : [review_glaucoma_classification.ipynb](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/review_glaucoma_classification.ipynb)
 
 # Assignment
-- 최종과제 : [2flowers_classification_유현준.ipynb](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/%202flowers_classification_%EC%9C%A0%ED%98%84%EC%A4%80.ipynb)
+- 최종과제 : [2flowers_classification_유현준.ipynb](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/%202flowers_classification_%EC%9C%A0%ED%98%84%EC%A4%80.ipynb)![]
 - 성능탐색01 : [탐색_꽃_분류.ipynb](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/%ED%83%90%EC%83%89_%EA%BD%83_%EB%B6%84%EB%A5%98.ipynb)
 - 성능탐색02 : [성능탐색_꽃_분류_데이터증강.ipynb](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/%ED%83%90%EC%83%89_%EA%BD%83_%EB%B6%84%EB%A5%98_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A6%9D%EA%B0%95.ipynb) 
