@@ -13,4 +13,4 @@
 # Assignment
 - 최종과제 :
 - 성능탐색01 :
-- 성능탐색02 : ![alt text](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/colab.jpeg "Logo Title Text 1")
+- 성능탐색02 : ![alt text](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/colab_logo.jpeg "Logo Title Text 1")
