@@ -11,13 +11,16 @@
 
 - 자연어 처리 이해를 위한 유용한 사이트 : https://wikidocs.net/book/2155
 - 논문과 코드로 구현한 사이트 : https://paperswithcode.com/
+- AI Hub : https://aihub.or.kr/
 ---
 # Code Review
 - Data Augmentation : [review_data_augmentation.ipynb](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/Code_review/review_data_augmentation.ipynb)
 - VGG로 영상 분류, 전이학습 : [review_VGG16_classification_and_cumtom_data_training.ipynb](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/review_VGG16_classification_and_cumtom_data_training.ipynb)
-- 커스텀 데이터 VGG 데이터 분류 실습 : [review_glaucoma_classification.ipynb](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/Code_review/review_glaucoma_classification.ipynb)
-- CNN, RNN을 사용한 영화 평가 데이터 IMDB 분류 실습 : [review_rnn_text_classification.ipynb](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/Code_review/review_rnn_text_classification.ipynb)
+- 커스텀 데이터 VGG 데이터 분류 : [review_glaucoma_classification.ipynb](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/Code_review/review_glaucoma_classification.ipynb)
+- CNN, RNN을 사용한 영화 평가 데이터 IMDB 분류 : [review_rnn_text_classification.ipynb](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/Code_review/review_rnn_text_classification.ipynb)
 - U-net을 사용한 영상 분할 : [review_unet_segementation.ipynb](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/Code_review/review_unet_segementation.ipynb)
+- U-Net을 사용한 컬러 영상 분할 : [review_unet_segementation_color_image.ipynb](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/Code_review/review_unet_segementation_color_image.ipynb)
+- AutoEncoder : [review_autoencoder.ipynb](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/Code_review/review_autoencoder.ipynb)
 ---
 # Assignment
 - 최종과제 : [2flowers_classification_유현준.ipynb](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/Assignments/2flowers_classification_%EC%9C%A0%ED%98%84%EC%A4%80.ipynb)
