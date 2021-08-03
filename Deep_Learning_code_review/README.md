@@ -21,6 +21,7 @@
 - U-net을 사용한 영상 분할 : [review_unet_segementation.ipynb](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/Code_review/review_unet_segementation.ipynb)
 - U-Net을 사용한 컬러 영상 분할 : [review_unet_segementation_color_image.ipynb](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/Code_review/review_unet_segementation_color_image.ipynb)
 - AutoEncoder : [review_autoencoder.ipynb](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/Code_review/review_autoencoder.ipynb)
+- 이상탐지 : [review_anomaly_detection_using_autoencoder.ipynb](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/Code_review/review_anomaly_detection_using_autoencoder.ipynb)
 ---
 # Assignment
 - 최종과제 : [2flowers_classification_유현준.ipynb](https://github.com/JuNoe2020/DMC_class_2021/blob/main/Deep_Learning_code_review/Assignments/2flowers_classification_%EC%9C%A0%ED%98%84%EC%A4%80.ipynb)
