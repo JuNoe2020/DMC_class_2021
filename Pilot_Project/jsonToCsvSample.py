@@ -22,7 +22,7 @@ def get_data(data_type, company_name):
         es = Elasticsearch(
             host="112.175.39.166",
             port=9200,
-            http_auth=('nia_contest', 'niacontest'),
+            http_auth=(ID, Pass),
             timeout=30,
             max_retries=3,
             retry_on_timeout=True
