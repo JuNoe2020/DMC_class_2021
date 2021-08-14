@@ -20,7 +20,7 @@ def search_elastic_data():
         es = Elasticsearch(
             host="112.175.39.166",
             port=9200,
-            http_auth=('nia_contest', 'niacontest'),
+            http_auth=(ID, PASS),
             timeout=60,
             max_retries=3,
             retry_on_timeout=True
